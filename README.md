@@ -1,5 +1,7 @@
 # APS - Entregador em GridWorld
 
+Marcus Vinícius Aguiar Maia
+
 ## Objetivo
 
 O projeto implementa um agente que precisa **pegar um pacote** e **entregá-lo em um destino**. Ele se move num mundo em grid N x N com obstáculos (células intransponíveis) e células com pedágio. O agente, o pacote, o destino, os obstáculos e os pedágios são sorteados a cada execução.
